@@ -180,4 +180,6 @@ This project was built for hackathon submission purposes.
 ## 🤝 Contributors
 
 - [AMANkumar0004](https://github.com/AMANkumar0004)
-- Add your teammates here
+- [Tushar malik](https://github.com/Tushar-sketch-bit)
+- [Keshav jaishwal](https://github.com/Keshav1605)
+- [Priyanshi](https://github.com/priyansshi-i/)
