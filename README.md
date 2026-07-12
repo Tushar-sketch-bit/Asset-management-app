@@ -151,7 +151,7 @@ This project runs as a single persistent Node service, which fits Render's Web S
 3. Configure:
    - **Build Command:** `npm run build`
    - **Start Command:** `npm start`
-4. Add environment variables: `NODE_ENV=production`, `JWT_SECRET`, `GEMINI_API_KEY`
+4. Add environment variables: `NODE_ENV=production`, `JWT_SECRET`
 5. Deploy — Render provides a single live URL serving both frontend and API, avoiding cross-origin/cookie issues entirely
 
 ---
