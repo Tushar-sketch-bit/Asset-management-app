@@ -62,9 +62,9 @@ The app ships as **one Express server** that serves both the API (`/api/*`) and 
 
 ```
 .
-├── server.ts              # Express API + production static serving + dev Vite middleware
+├── server.ts              
 ├── server/
-│   └── db.ts               # Data layer, state-machine validation, overlap checks
+│   └── db.ts              
 ├── src/
 │   ├── App.tsx
 │   ├── main.tsx
